@@ -10,7 +10,7 @@
 
 ### About me ✨
 👨‍🎓 I'm currently a year 3 Software Engineering student at Universiti Sarawak Malaysia (UNIMAS) <br/><br/>
-💖 Interested in becoming a backend developer <br/><br/>
+💖 Interested in trying backend developement <br/><br/>
 
 
 ### Skills set 🕹
