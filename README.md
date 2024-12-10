@@ -9,7 +9,7 @@
 <br/>
 
 ### About me ✨
-👨‍🎓 I'm currently a year 4 Software Engineering student at Universiti Sarawak Malaysia (UNIMAS) <br/><br/>
+👨‍🎓 I'm a Software Engineering fresh graduate from Universiti Sarawak Malaysia (UNIMAS) <br/><br/>
 
 
 ### Skills set 🕹
